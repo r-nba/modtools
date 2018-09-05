@@ -1,4 +1,4 @@
-from b import Session, engine, Base
+from sqlsession import Session, engine, Base
 from sqlalchemy.sql import exists
 from models import ModLog, ModQueueItem, DiscordAction, Report, ModMailConversation
 from prawmod import bot
