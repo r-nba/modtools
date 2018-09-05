@@ -19,3 +19,12 @@ https://discordapp.com/developers/applications/
 
 Make a bot, and obtain a token.
 
+# Make Reddit Bot Account
+
+# Populate examples/config.py with both bot credentials
+
+# Add channel ids to examples/config.py
+
+# Move config.py outside of examples folder
+
+# Run bot with docker-compose up in root directory
