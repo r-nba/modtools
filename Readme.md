@@ -28,3 +28,8 @@ Each item in DiscordActions causes an action to happen on Discord; eg: sending m
 ## What is logged
 
 Modqueue/Modmail/Modlogs are all logged in entirety to the PostgreSQL db.
+
+## Docker
+This can be set up with zero configuration using Docker. Instructions are in modtools folder.
+
+A manual setup can also be done, with additional configuration in sqlsession.py.
